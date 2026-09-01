@@ -1,3 +1,7 @@
+> **⚠️ Proprietary — All Rights Reserved.** © 2026 Sandeep Grover. This repository is licensed to Sandeep Grover and may **not** be used, run, copied, modified, distributed, or used to train models without prior written permission. Public visibility does not grant a license. See [LICENSE](LICENSE).
+
+---
+
 # claude-ebook-generator
 
 A Claude-powered pipeline that turns a single topic into a **200-300 page, print-ready e-book PDF** with consistent voice, structured chapters, and rich visual elements (callout boxes, tables, checklists, recipe cards, cover page).
